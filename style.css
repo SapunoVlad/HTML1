@@ -1,0 +1,21 @@
+
+.markup {
+    border: 0 solid #958b8b;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+}
+
+h1 {
+    color: #000000;
+} 
+
+.term {
+    border-bottom: 1px dotted #0e0b0b;
+}
+
+code {
+    color: rgb(195, 57, 57);
+    font-size: 15px;
+    background-color: #ece9e9;
+}
+
