@@ -4,7 +4,9 @@
     border-bottom-width: 2px;
     border-top-width: 2px;
 }
-
+span.highlight-html {
+    text-decoration: underline dotted black;
+}
 h1 {
     color: #000000;
 } 
@@ -16,6 +18,6 @@ h1 {
 code {
     color: rgb(195, 57, 57);
     font-size: 15px;
-    background-color: #ece9e9;
+    background-color: #adadad;
 }
 
