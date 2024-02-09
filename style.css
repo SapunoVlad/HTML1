@@ -4,12 +4,37 @@
     border-top-width: 2px;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+.markup {
+    border: 0 solid #c7c6c6f6;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+}
+
+span.highlight-html {
+    text-decoration: underline dotted black;
+}
+
+h2 {
+    color: rgba(0, 0, 0, 0.89);
+    text-align: center;
+} 
+
 .term {
     border-bottom: 1px dotted #0e0b0b;
 }
 
 code {
+
     color: rgb(189, 70, 70);
     font-size: 15px;
     background-color: #ece9e9;
+}
+
+    color: rgb(195, 57, 57);
+    font-size: 15px;
+    background-color: #dbd7d7fe;
 }
